@@ -1,2 +1,2 @@
-# Tic-Tac-Teo
-This is simple game which is created by javascript and css &amp; html
+# Tic Tac Teo Game
+This is Simple and Easy to play everyone.
